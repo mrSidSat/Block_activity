@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+    <title>Custom blocks</title>
+    <link href="./CSS/draw.css" rel="stylesheet"/>
+</head>
+<body>
+    <div class="header">
+        <h2>Activity</h2>
+        <p>Draw polygon shapes with the help of these blocks, use your imagination to carve your polygon art</p>
+        <hr></hr>
+    </div>
+    <div style="display: flex;">
+        <div id="workspace" style="height:600px;margin:20px;width:1000px;border:1px solid black"></div>
+        <div id="wrapper"> 
+            <div class="pointer"><div class="dir" ></div></div>
+            <canvas id="canvas" width="500px" height="500px"></canvas>
+        </div>
+        
+    </div>
+    <button id="getcodebutton" onclick="getcode()">Run Blocks</button>
+    <div class="mrsidsat"><a href="https://github.com/mrSidSat/">Made by mrsidsat!!</a></div>
+    
+    <script src="node_modules/blockly/blockly.min.js"></script>
+    <script src="./scripts/draw.js"></script>
+    <script src="./scripts/index.js"></script>
+</body>
+</html>

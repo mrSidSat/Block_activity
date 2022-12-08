@@ -1,0 +1,14 @@
+{
+  "name": "aptcoder",
+  "version": "1.0.0",
+  "description": "intern work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blockly": "^9.1.1"
+  }
+}
