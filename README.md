@@ -11,4 +11,4 @@ Few Examples using the blocks -
 The whole project is built using JS.
 
 Contributors -<br></br>
-💻 <a href="https://github.com/mrSidSa">Siddhesh Sathe</a><br/>
+💻 <a href="https://github.com/mrSidSat">Siddhesh Sathe</a><br/>
