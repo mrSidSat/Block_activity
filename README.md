@@ -7,3 +7,8 @@ Few Examples using the blocks -
 ![](public/image1.png)
 <br></br>
 ![](public/image2.png)
+
+The whole project is built using JS.
+
+Contributors -
+Siddhesh Sathe (mrsidsat)
