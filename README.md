@@ -10,5 +10,5 @@ Few Examples using the blocks -
 
 The whole project is built using JS.
 
-Contributors -
-Siddhesh Sathe (mrsidsat)
+Contributors -<br></br>
+💻 <a href="https://github.com/mrSidSa">Siddhesh Sathe</a><br/>
